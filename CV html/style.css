@@ -1,0 +1,28 @@
+html{
+  font-family: Arial;
+  font-size: 14px;
+  color:black;
+}
+
+h2{
+  text-decoration: underline;
+}
+
+img{
+  width: 80px;
+}
+
+a{
+  color: black
+}
+
+.container{
+  max-width: 1000px;
+  width: 80vw;
+  margin: auto;
+}
+
+.dados{
+  padding-left: 30px;
+ 
+}
